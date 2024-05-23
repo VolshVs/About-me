@@ -27,8 +27,14 @@
 - Подготовка [программы для парсинга данных из pdf](https://github.com/VolshVs/parsing_text_from_pdf) файла на основе регулярных выражений (конкурс для Python-разработчиков от компании О2RUS).
 - Работа с REST API Я.Диска и VK на примере [курсовой работы «Резервное копирование»](https://github.com/VolshVs/Coursework-OOP-Backup/tree/main).
 - Пример работы с [sqlalchemy](https://github.com/VolshVs/ORM.Python_DB).
-- Пример [web-scrapping](https://github.com/VolshVs/web_scrapping).
+- [Web-scrapping](https://github.com/VolshVs/web_scrapping).
 - Пример работы с [SQL](https://github.com/VolshVs/client_management_in_Python/blob/main/main.py) на Python.
+- [ООП](https://github.com/VolshVs/OOP_1/blob/main/main.py) на Python.
+- Пример с [итераторами и генераторами](https://github.com/VolshVs/Iterators_Generators_Yield).
+- Пример [декораторами](https://github.com/VolshVs/Decorators).
+- [Тесты + API](https://github.com/VolshVs/Tests/tree/main).
+- [Регулярные выражения](https://github.com/VolshVs/regular_expressions).
+- [ORM Python + DB](https://github.com/VolshVs/ORM.Python_DB).
 
 **Личные качества:**
 
