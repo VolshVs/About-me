@@ -11,7 +11,7 @@
 
 ***резюме на [Хабр Карьера](https://career.habr.com/shaptsev_av)***
 
-<img  src="./img/photo_3.jpg" alt="Я" width="200"/>
+<img  src="./img/photo_2.jpg" alt="Я" width="200"/>
 
 **Ключевые компетенции:**
 
