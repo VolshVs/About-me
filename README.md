@@ -33,4 +33,4 @@
 - ответственность.
 
 
-<img  src="./img/img.png" alt="мой telegram" width="200"/>
+<p style="text-align: center;"><img  src="./img/img.png" alt="мой telegram" width="200"/></p>
